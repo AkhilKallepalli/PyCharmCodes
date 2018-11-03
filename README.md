@@ -1,2 +1,4 @@
 PyCharmCodes
-This file will serve as the guide for the GitHub repo 
+The files and codes in this folder are written by Akhil Kallepalli to maintain a record of all the changes and modifications to this repository. 
+
+Branch #1 - PyCharmTutorials
